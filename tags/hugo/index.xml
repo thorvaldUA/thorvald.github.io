@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on My Website</title>
+    <link>https://example.com/tags/hugo/</link>
+    <description>Recent content in Hugo on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2016 20:08:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Quick Start</title>
+      <link>https://example.com/case/hugo-quick-start/</link>
+      <pubDate>Tue, 20 Dec 2016 20:08:19 +0800</pubDate>
+      
+      <guid>https://example.com/case/hugo-quick-start/</guid>
+      <description>Step 1: Install Hugo Homebrew, a package manager for macOS, can be installed from brew.sh. See install if you are running Windows etc.
+brew install hugo  To verify your new install:
+hugo version  Step 2: Create a New Site hugo new site quickstart  The above will create a new Hugo site in a folder named quickstart.
+Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo!</title>
+      <link>https://example.com/case/hello-hugo/</link>
+      <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
+      
+      <guid>https://example.com/case/hello-hugo/</guid>
+      <description>Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file content/post/hello-hugo.md has been converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?
+A Section Here&amp;rsquo;s a simple titled section where you can place whatever information you want.
+You can use inline HTML if you want, but really there&amp;rsquo;s not much that Markdown can&amp;rsquo;t do.
+Showing off with Markdown A full cheat sheet can be found here or through Google.</description>
+    </item>
+    
+  </channel>
+</rss>

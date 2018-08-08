@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Website</title>
+    <link>https://example.com/</link>
+    <description>Recent content on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Dec 2017 23:30:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Little Because by Teshima Aoi</title>
+      <link>https://example.com/case/a-little-because-by-teshima-aoi/</link>
+      <pubDate>Thu, 21 Dec 2017 23:30:36 +0800</pubDate>
+      
+      <guid>https://example.com/case/a-little-because-by-teshima-aoi/</guid>
+      <description>Share a song  A Little Because is a short version of Because. 菅野よう子と手嶌葵によるコラボレーションシングル「Because」が、本日4月7日にiTunes Store限定でリリースされた。 昨年はプロデュースワークのみならず、自選コレクションアルバム「スペース バイオチャージ」のリリースや、リーダーを務めるバンドYOKO KANNO SEATBELTSの“来地球記念”ライブ「超時空七夕ソニック」の開催など、個人名義の活動を多く行いファンを喜ばせた菅野よう子。今回iTunes Store限定で発売される新作「Because」では手嶌葵をボーカルに迎え、透明感のある美しいポップスを作り上げている。なお、シングルには別アレンジバージョン「a little because」もあわせて収録。 また本作では、やくしまるえつこ（相対性理論、TUTU HELVETICAほか）がジャケットのイラストを手がけている。今度は音楽での共演にも期待したいところだ。 Source: [natalie](https://natalie.</description>
+    </item>
+    
+    <item>
+      <title>test_2</title>
+      <link>https://example.com/about/about-story-test/</link>
+      <pubDate>Thu, 21 Dec 2017 03:21:00 +0800</pubDate>
+      
+      <guid>https://example.com/about/about-story-test/</guid>
+      <description>How to Save Users through Personal Account ONLINE SHOP REDESIGN  Serving both the professional and retail customer       The identity centers on a bold, modern logo that uses the simple icons of international symbols to create a friendly, accessible and democratic visual personality.  Process The Heart &amp; Stroke Foundation of Canada is a national charity with the mission to prevent heart disease and stroke, leading causes of death and hospitalization for Canadians.</description>
+    </item>
+    
+    <item>
+      <title>test_2</title>
+      <link>https://example.com/blog/blog-article-test/</link>
+      <pubDate>Thu, 21 Dec 2017 03:21:00 +0800</pubDate>
+      
+      <guid>https://example.com/blog/blog-article-test/</guid>
+      <description>How to Save Users through Personal Account ONLINE SHOP REDESIGN  Serving both the professional and retail customer       The identity centers on a bold, modern logo that uses the simple icons of international symbols to create a friendly, accessible and democratic visual personality.  Process The Heart &amp; Stroke Foundation of Canada is a national charity with the mission to prevent heart disease and stroke, leading causes of death and hospitalization for Canadians.</description>
+    </item>
+    
+    <item>
+      <title>test_2</title>
+      <link>https://example.com/case/portfolio-case-test/</link>
+      <pubDate>Thu, 21 Dec 2017 03:21:00 +0800</pubDate>
+      
+      <guid>https://example.com/case/portfolio-case-test/</guid>
+      <description>How to Save Users through Personal Account ONLINE SHOP REDESIGN  Serving both the professional and retail customer       The identity centers on a bold, modern logo that uses the simple icons of international symbols to create a friendly, accessible and democratic visual personality.  Process The Heart &amp; Stroke Foundation of Canada is a national charity with the mission to prevent heart disease and stroke, leading causes of death and hospitalization for Canadians.</description>
+    </item>
+    
+    <item>
+      <title>Article With Images Preview</title>
+      <link>https://example.com/case/article-with-images-preview/</link>
+      <pubDate>Wed, 20 Dec 2017 12:36:50 +0800</pubDate>
+      
+      <guid>https://example.com/case/article-with-images-preview/</guid>
+      <description>ドライブサーガ仮面ライダーチェイサーの打ち上げに行ってきました。一か月皆さんにお会いしてないだけで、随分久しぶりに感じます。お楽しみに！
+ふみかちゃんがバックからおもむろに取り出したティッシュが大きくて笑いました!(記念写真参照)
+source: Twiiter@lespros_rio</description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting Preview</title>
+      <link>https://example.com/case/syntax-highlighting-preview-2/</link>
+      <pubDate>Wed, 20 Dec 2017 12:33:21 +0800</pubDate>
+      
+      <guid>https://example.com/case/syntax-highlighting-preview-2/</guid>
+      <description>Syntax highlighting is a feature of text editors that are used for programming, scripting, or markup languages, such as HTML. Besides Chroma, the default syntax hightlighter in Hugo, highlight.js is a better choice. The bare minimum for using highlight.js on a web page is linking to the library along with one of the styles and calling initHighlightingOnLoad:
+&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;/path/to/styles/default.css&amp;quot;&amp;gt; &amp;lt;script src=&amp;quot;/path/to/highlight.pack.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt;hljs.initHighlightingOnLoad();&amp;lt;/script&amp;gt;  Theme one uses the github style color theme.</description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting Preview</title>
+      <link>https://example.com/case/syntax-highlighting-preview/</link>
+      <pubDate>Wed, 20 Dec 2017 12:33:21 +0800</pubDate>
+      
+      <guid>https://example.com/case/syntax-highlighting-preview/</guid>
+      <description>Syntax highlighting is a feature of text editors that are used for programming, scripting, or markup languages, such as HTML. Besides Chroma, the default syntax hightlighter in Hugo, highlight.js is a better choice. The bare minimum for using highlight.js on a web page is linking to the library along with one of the styles and calling initHighlightingOnLoad:
+&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;/path/to/styles/default.css&amp;quot;&amp;gt; &amp;lt;script src=&amp;quot;/path/to/highlight.pack.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt;hljs.initHighlightingOnLoad();&amp;lt;/script&amp;gt;  Theme one uses the github style color theme.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Quick Start</title>
+      <link>https://example.com/case/hugo-quick-start/</link>
+      <pubDate>Tue, 20 Dec 2016 20:08:19 +0800</pubDate>
+      
+      <guid>https://example.com/case/hugo-quick-start/</guid>
+      <description>Step 1: Install Hugo Homebrew, a package manager for macOS, can be installed from brew.sh. See install if you are running Windows etc.
+brew install hugo  To verify your new install:
+hugo version  Step 2: Create a New Site hugo new site quickstart  The above will create a new Hugo site in a folder named quickstart.
+Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo!</title>
+      <link>https://example.com/case/hello-hugo/</link>
+      <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
+      
+      <guid>https://example.com/case/hello-hugo/</guid>
+      <description>Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file content/post/hello-hugo.md has been converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?
+A Section Here&amp;rsquo;s a simple titled section where you can place whatever information you want.
+You can use inline HTML if you want, but really there&amp;rsquo;s not much that Markdown can&amp;rsquo;t do.
+Showing off with Markdown A full cheat sheet can be found here or through Google.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on My Website</title>
+    <link>https://example.com/tags/tutorial/</link>
+    <description>Recent content in Tutorial on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2016 20:08:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Quick Start</title>
+      <link>https://example.com/case/hugo-quick-start/</link>
+      <pubDate>Tue, 20 Dec 2016 20:08:19 +0800</pubDate>
+      
+      <guid>https://example.com/case/hugo-quick-start/</guid>
+      <description>Step 1: Install Hugo Homebrew, a package manager for macOS, can be installed from brew.sh. See install if you are running Windows etc.
+brew install hugo  To verify your new install:
+hugo version  Step 2: Create a New Site hugo new site quickstart  The above will create a new Hugo site in a folder named quickstart.
+Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider.</description>
+    </item>
+    
+  </channel>
+</rss>

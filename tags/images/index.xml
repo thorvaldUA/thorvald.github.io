@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Images on My Website</title>
+    <link>https://example.com/tags/images/</link>
+    <description>Recent content in Images on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2017 12:36:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article With Images Preview</title>
+      <link>https://example.com/case/article-with-images-preview/</link>
+      <pubDate>Wed, 20 Dec 2017 12:36:50 +0800</pubDate>
+      
+      <guid>https://example.com/case/article-with-images-preview/</guid>
+      <description>ドライブサーガ仮面ライダーチェイサーの打ち上げに行ってきました。一か月皆さんにお会いしてないだけで、随分久しぶりに感じます。お楽しみに！
+ふみかちゃんがバックからおもむろに取り出したティッシュが大きくて笑いました!(記念写真参照)
+source: Twiiter@lespros_rio</description>
+    </item>
+    
+  </channel>
+</rss>

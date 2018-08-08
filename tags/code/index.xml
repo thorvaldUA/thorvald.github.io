@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on My Website</title>
+    <link>https://example.com/tags/code/</link>
+    <description>Recent content in Code on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2017 12:33:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syntax Highlighting Preview</title>
+      <link>https://example.com/case/syntax-highlighting-preview-2/</link>
+      <pubDate>Wed, 20 Dec 2017 12:33:21 +0800</pubDate>
+      
+      <guid>https://example.com/case/syntax-highlighting-preview-2/</guid>
+      <description>Syntax highlighting is a feature of text editors that are used for programming, scripting, or markup languages, such as HTML. Besides Chroma, the default syntax hightlighter in Hugo, highlight.js is a better choice. The bare minimum for using highlight.js on a web page is linking to the library along with one of the styles and calling initHighlightingOnLoad:
+&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;/path/to/styles/default.css&amp;quot;&amp;gt; &amp;lt;script src=&amp;quot;/path/to/highlight.pack.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt;hljs.initHighlightingOnLoad();&amp;lt;/script&amp;gt;  Theme one uses the github style color theme.</description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting Preview</title>
+      <link>https://example.com/case/syntax-highlighting-preview/</link>
+      <pubDate>Wed, 20 Dec 2017 12:33:21 +0800</pubDate>
+      
+      <guid>https://example.com/case/syntax-highlighting-preview/</guid>
+      <description>Syntax highlighting is a feature of text editors that are used for programming, scripting, or markup languages, such as HTML. Besides Chroma, the default syntax hightlighter in Hugo, highlight.js is a better choice. The bare minimum for using highlight.js on a web page is linking to the library along with one of the styles and calling initHighlightingOnLoad:
+&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;/path/to/styles/default.css&amp;quot;&amp;gt; &amp;lt;script src=&amp;quot;/path/to/highlight.pack.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt;hljs.initHighlightingOnLoad();&amp;lt;/script&amp;gt;  Theme one uses the github style color theme.</description>
+    </item>
+    
+  </channel>
+</rss>
